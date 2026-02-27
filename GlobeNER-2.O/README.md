@@ -52,12 +52,4 @@ GlobeNER 2.0 is a scalable, API-first text intelligence system designed for high
 }
 ```
 
-## Project Roadmap
 
-- [ ] Support for custom fine-tuned model weights.
-- [ ] Real-time streaming analysis for long documents.
-- [ ] Advanced entity types (DATE, MONEY, PERCENT).
-- [ ] Multi-user collaboration and team workspaces.
-
-## License
-Apache-2.0
